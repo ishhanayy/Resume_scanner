@@ -1,1 +1,1 @@
-# Resume_scanner
+# Resume Scanner Program
